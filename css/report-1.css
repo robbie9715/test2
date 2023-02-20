@@ -1,0 +1,127 @@
+/*Black Friday Article*/
+.post-73065 .new {
+  color: white;
+  background-color: #42a5f5;
+  border-radius: 4px;
+  font-family: Arial;
+  font-size: 14px;
+  padding: 6px 6px 4px 6px;
+  margin-right: 4px;
+}
+
+.post-73065 .expired {
+  color: white;
+  background-color: #000;
+  border-radius: 4px;
+  font-family: Arial;
+  font-size: 14px;
+  padding: 6px 6px 4px 6px;
+  margin-right: 4px;
+}
+
+.post-73065 .starts-soon {
+  color: white;
+  background-color: #9ccc65;
+  border-radius: 4px;
+  font-family: Arial;
+  font-size: 14px;
+  padding: 6px 6px 4px 6px;
+  margin-right: 4px;
+}
+
+.post-73065 .ends-soon {
+  color: white;
+  background-color: #ef5350;
+  border-radius: 4px;
+  font-family: Arial;
+  font-size: 14px;
+  padding: 6px 6px 4px 6px;
+  margin-right: 4px;
+}
+
+/*Online Deals Article*/
+.post-84167 .new {
+  color: white;
+  background-color: #42a5f5;
+  border-radius: 4px;
+  font-family: Arial;
+  font-size: 14px;
+  padding: 6px 6px 4px 6px;
+  margin-right: 4px;
+}
+
+.post-84167 .expired {
+  color: white;
+  background-color: #000;
+  border-radius: 4px;
+  font-family: Arial;
+  font-size: 14px;
+  padding: 6px 6px 4px 6px;
+  margin-right: 4px;
+}
+
+.post-84167 .starts-soon {
+  color: white;
+  background-color: #9ccc65;
+  border-radius: 4px;
+  font-family: Arial;
+  font-size: 14px;
+  padding: 6px 6px 4px 6px;
+  margin-right: 4px;
+}
+
+.post-84167 .ends-soon {
+  color: white;
+  background-color: #ef5350;
+  border-radius: 4px;
+  font-family: Arial;
+  font-size: 14px;
+  padding: 6px 6px 4px 6px;
+  margin-right: 4px;
+}
+
+/*Needed for Semrush ad (Q1 2023)*/
+@media only screen and (max-width: 480px) {
+
+  .post-84883 .xsmall-only-hidden,
+  .post-66895 .xsmall-only-hidden,
+  .post-72028 .xsmall-only-hidden,
+  .post-74324 .xsmall-only-hidden,
+  .post-74608 .xsmall-only-hidden {
+  display: none !important;
+  }
+}
+
+@media only screen and (min-width: 481px) {
+
+  .post-84883 .small-up-width-1-2,
+  .post-66895 .small-up-width-1-2,
+  .post-72028 .small-up-width-1-2,
+  .post-74324 .small-up-width-1-2,
+  .post-74608 .small-up-width-1-2 {
+  max-width: 50% !important;
+  min-width: 50% !important;
+  min-height: 1px !important;
+  }
+
+  .post-84883 .small-up-hidden,
+  .post-66895 .small-up-hidden,
+  .post-72028 .small-up-hidden,
+  .post-74324 .small-up-hidden,
+  .post-74608 .small-up-hidden {
+  display: none !important;
+  }
+}
+
+@media only screen and (min-width: 641px) {
+
+  .post-84883 .medium-up-width-1-3,
+  .post-66895 .medium-up-width-1-3,
+  .post-72028 .medium-up-width-1-3,
+  .post-74324 .medium-up-width-1-3,
+  .post-74608 .medium-up-width-1-3 {
+  max-width: 33.33333% !important;
+  min-width: 33.33333% !important;
+  min-height: 1px !important;
+  }
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Class Central",
+    "short_name": "Class Central",
+    "description": "Love to learn? Discover thousands of FREE online courses and MOOCs from top universities and companies on Class Central.",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#07213c",
+    "background_color": "#07213c",
+    "display": "standalone"
+}
